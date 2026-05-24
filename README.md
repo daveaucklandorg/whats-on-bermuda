@@ -1,6 +1,5 @@
 # What's On in Bermuda
 
-Bermuda events tracker and display app. Aggregates and surfaces what's
-happening on the island so locals and visitors can find what to do.
+A scraper-driven event aggregator for Bermuda that crawls six local event sources, deduplicates listings, and presents a comprehensive 'what's happening this week' web app. Anonymous users see the full firehose; logged-in users declare interests and get a personalised filtered feed with email digest notifications.
 
 Daveclaw workspace: `prod-whatsoninbermuda`.
